@@ -245,5 +245,5 @@ canvas.drawImg=function(imgPath,x,y,width=-1,height=-1){
             this.ctx.drawImage(img,x, y);
         };
     }
-  }
+}
 
